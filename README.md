@@ -1,2 +1,3 @@
-# studentcode1
-repository pertama
+<?php
+echo "hello world"
+?>
